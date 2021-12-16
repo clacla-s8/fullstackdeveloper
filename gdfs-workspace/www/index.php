@@ -29,6 +29,7 @@ try {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/style.css">
     <title>Gaudium Software - Prova Desenvolvedor Full Stack</title>
 </head>
 
@@ -41,8 +42,8 @@ try {
             <div class="row">
                 <h2 class="mx-auto">Prova Desenvolvedor Full Stack</h2>
             </div>
-            <div class="row pt-5">
-                <div class="jumbotron mx-auto">
+            <div class="row pt-5" >
+                <div class="jumbotron mx-auto conteudo">
 
                     <form>
                         <div class="form-group">
@@ -73,6 +74,13 @@ try {
 
 
                     </form>
+
+                    <div class="container">
+                        <p>Em Rio de Janeiro, carro executivo, de Rua da Assembleia, 10 para Rua Barata Ribeiro,30,
+                            às 10:34: <strong>R$ 23,15</strong>
+
+                        </p>
+                    </div>
                 </div>
             </div>
         </div> <!-- /container -->
