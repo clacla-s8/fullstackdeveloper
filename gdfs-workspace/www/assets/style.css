@@ -6,8 +6,15 @@
   background-color: lightblue;
   border-color: darkblue;
   border-style: solid;
+  border-width: 1px;
+  width: 200px;
+
 }
 
 p {
   color: darkgreen;
+}
+
+form{
+    width: 500px;
 }
