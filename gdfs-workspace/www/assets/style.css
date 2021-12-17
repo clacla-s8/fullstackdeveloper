@@ -1,4 +1,13 @@
-.conteudo{
-    display: flex;
-    justify-content: space-between;
+.conteudo {
+  display: flex;
+  justify-content: space-between;
+}
+.historico {
+  background-color: lightblue;
+  border-color: darkblue;
+  border-style: solid;
+}
+
+p {
+  color: darkgreen;
 }
