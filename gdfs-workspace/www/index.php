@@ -45,7 +45,7 @@ try {
             <div class="row pt-5" >
                 <div class="jumbotron mx-auto conteudo">
 
-                    <form>
+                    <form >
                         <div class="form-group">
                             <label for="selectCidade">Cidade</label>
                             <select name="cidade" id="cidade" class="form-control">
@@ -75,11 +75,15 @@ try {
 
                     </form>
 
-                    <div class="container">
-                        <p>Em Rio de Janeiro, carro executivo, de Rua da Assembleia, 10 para Rua Barata Ribeiro,30,
-                            às 10:34: <strong>R$ 23,15</strong>
+                    <div class="container ">
+                        <div class="historico">
+                            <p>Em Rio de Janeiro, carro executivo, de Rua da Assembleia, 10 para Rua Barata Ribeiro,30,
+                                às 10:34: <strong>R$ 23,15</strong>
+    
+                            </p>
 
-                        </p>
+                        </div>
+                    
                     </div>
                 </div>
             </div>
